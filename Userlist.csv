@@ -1,0 +1,6 @@
+Function,Username,Password
+DEV,dev1,Pa$$w0rd
+test,test1,Pa$$w0rd
+service app,sa_u,Pa$$w0rd
+service user,su,Pa$$w0rd
+backup user,bu_u,Pa$$w0rd
